@@ -1,0 +1,75 @@
+body {
+  background-color: #01452c;
+  color: white;
+}
+h2 {
+    font-family: 'Russo One', sans-serif;
+}
+h1 {
+  padding-top: 70px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.about-me {
+  text-align: center;
+  width: 40%;
+  margin: auto;
+}
+
+.pine-tree {
+ position: absolute;
+ height: 300px;
+ width: 250px;
+ top: 230px;
+ left: 150px;
+}
+
+.big-tree {
+  position: absolute;
+  height: 350px;
+  width: 300px;
+  top: 150px;
+  left: 900px;
+}
+
+.row {
+  margin: 50px;
+}
+
+.welcome-sections {
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  display: block;
+  height: 100vh;
+}
+
+.projects-section {
+  text-align: center;
+}
+
+.contact-info {
+  text-align: center;
+
+}
+
+.navbar-nav > li {
+  margin-left: 35px;
+  margin-right: 35px;
+  font-family: 'Russo One', sans-serif;
+}
+
+.closing-tag {
+  text-align: center;
+  font-family: 'Russo One', sans-serif;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+}
